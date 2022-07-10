@@ -1,4 +1,4 @@
-### Hi there, I'm [Fencle](https://discord.gg/R26WT5gwg7) 👋
+### Hi there, I'm [Fencle](https://youtube.com/Fencle) 👋
 
 ```js
 A Full-Stack Developer
