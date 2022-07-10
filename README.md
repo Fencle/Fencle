@@ -3,7 +3,7 @@
 ```js
 A Full-Stack Developer
 
-I'm a coder who makes Discord bots & Websites for people!
+I'm a developer who makes bots & Websites for people!
 ```
 ![](https://dcbadge.vercel.app/api/shield/627118995874643990)
 
